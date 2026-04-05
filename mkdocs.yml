@@ -1,6 +1,6 @@
-site_name: hjetter tech docs
+site_name: tech docs
 repo_name: GitHub
-repo_url: https://github.com/gittesserakt/hjetter-tech-docs
+repo_url: https://github.com/syntaxfox-eu/hjetter-tech-docs
 edit_uri: edit/main/docs/
 
 nav:
